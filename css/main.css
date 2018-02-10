@@ -1,31 +1,40 @@
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Bob\/SWDev\/bob2\/css\/home\/main\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Bob\/SWDev\/bobtaffet\.github\.io\/css\/home\/main\.scss}line{font-family:\000031}}
 body {
   margin: 60px auto;
   width: 70%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Bob\/SWDev\/bob2\/css\/home\/main\.scss}line{font-family:\000035}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Bob\/SWDev\/bobtaffet\.github\.io\/css\/home\/main\.scss}line{font-family:\000035}}
 h1 {
   font-size: 3em;
   font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Bob\/SWDev\/bob2\/css\/home\/main\.scss}line{font-family:\000039}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Bob\/SWDev\/bobtaffet\.github\.io\/css\/home\/main\.scss}line{font-family:\000039}}
 p {
   font-size: 1.5em;
   line-height: 1.4em;
   color: #333; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Bob\/SWDev\/bob2\/css\/home\/main\.scss}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Bob\/SWDev\/bobtaffet\.github\.io\/css\/home\/main\.scss}line{font-family:\0000314}}
 footer {
   border-top: 1px solid #d5d5d5;
   font-size: .8em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Bob\/SWDev\/bob2\/css\/home\/main\.scss}line{font-family:\0000319}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Bob\/SWDev\/bobtaffet\.github\.io\/css\/home\/main\.scss}line{font-family:\0000319}}
 ul.posts {
   margin: 20px auto 40px;
   font-size: 1.5em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Bob\/SWDev\/bob2\/css\/home\/main\.scss}line{font-family:\0000324}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Bob\/SWDev\/bobtaffet\.github\.io\/css\/home\/main\.scss}line{font-family:\0000324}}
 ul.posts li {
   list-style: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Bob\/SWDev\/bobtaffet\.github\.io\/css\/home\/home\.scss}line{font-family:\000031}}
+form {
+  display: inline;
+  color: blue;
+  float: right; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Bob\/SWDev\/bobtaffet\.github\.io\/css\/home\/home\.scss}line{font-family:\000035}}
+  form input {
+    width: 7em; }
 
 /*# sourceMappingURL=main.css.map */
