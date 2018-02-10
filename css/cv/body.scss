@@ -1,0 +1,26 @@
+$pageColor: #f5f5c6;
+
+html, body {
+	background-color: $pageColor;
+    max-width: 940px;
+    margin: auto auto;
+    overflow-x: hidden;
+}
+			
+footer {
+	text-align: center;
+	margin-bottom: 30px;
+	padding-right: 5em; 
+}		
+
+footer h4 {
+	text-align: right;
+	span {
+		font-style: italic;
+		color: blue;
+	}
+}
+
+h1{
+	text-align: center;
+}	

@@ -1,0 +1,50 @@
+
+.bio {
+	padding-bottom: 1em; 
+	width:100;
+} 
+
+.bio img {
+    float: left;
+	padding: .5em 1em 0 1em;
+}
+
+.bio h1,
+.bio h3 {
+	text-align: center;
+	line-height: 1.2em;
+}
+
+.bio h1 {
+	font-size: 1.8em;
+	margin: 1em auto 0 auto; 
+}
+
+.bio h3 {
+	margin: 1em;
+}
+
+.bio p {
+	font: 1.1em New Century Schoolbook, TeX Gyre Schola, serif;
+	font-weight: 500;
+	text-indent: 2em;
+	margin: 1em;
+	padding-top: 1em;
+} 
+
+@media screen and (max-width: 600px) {
+	.bio img {
+		float: none;
+		width: 90%;
+		margin: 0 1em 0 1em;
+		box-sizing: border-box;
+	}
+	.bio p {
+		text-align: justify;
+	}
+}
+
+.bio:after {
+	clear: both;
+}
+

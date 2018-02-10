@@ -1,0 +1,126 @@
+
+#qso {
+  top: 0;
+  left: $tab1;
+  .job-line {
+    height: 55em;
+  }
+}
+
+#kmhs {
+	top: 2em;
+	margin-left: $tab2;
+	.job-line {
+		height: 12em;
+	}
+}
+
+#adu {
+	top: 8em;
+	margin-left: $tab3;
+	.job-line {
+		height: 24em;
+	}
+}
+
+#dcs {
+	top: 21.5em;
+	margin-left: $tab2;
+	.job-line {
+		height: 4.5em;
+	}
+}
+
+#pgu {
+	top: 26.4em;
+	margin-left: $tab2;
+	.job-line {
+		height: 6.2em;
+	}
+}
+
+#mstan {
+	top: 33em;
+	margin-left: $tab2;
+	.job-line {
+		height: 1.6em;
+	}
+}
+
+#pepsi {
+	top: 35em;
+	margin-left: $tab2;
+	.job-line {
+		height: 1.6em;
+	}
+}
+
+#nmu {
+	top: 37em;
+	margin-left: $tab2;
+	.job-line {
+		height: 6em;
+	}
+}
+
+
+
+#soli {
+	top: 38em;
+	margin-left: $tab3;
+	.job-line {
+		height: 15em;
+	}
+}
+
+
+
+#spld {
+	top: 39em;
+	margin-left: $tab4;
+	.job-line {
+		height: 17em;
+	}
+}
+#spld 
+#spld .info-balloon {
+	bottom: 20em;
+}
+
+
+#tsds {
+	top: 47em;
+	margin-left: $tab2;
+	.job-line {
+		height: 1px;
+		border-bottom: none;
+	}
+}
+
+
+#emf {
+	top: 48em;
+	margin-left: $tab2;
+	.job-line {
+		height: 12em;
+	}
+}
+
+
+#lis {
+	top: 55em;
+	margin-left: $tab3;
+	.job-line {
+		height: 8em;
+	}
+}
+
+.list-seperator {
+	font-weight: bold;
+	font-style: italic;
+	margin-left: -2em;
+}
+
+.clearboth {
+	clear: both;
+}

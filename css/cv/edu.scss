@@ -1,0 +1,25 @@
+.edu {
+	// position: absolute;
+	margin: auto auto;
+}
+.edu h3 {
+	margin: 0;
+}
+.edu h3,
+.edu h1 {
+	text-align: center;
+}
+
+.edu .row {
+	border: 1px solid #000;
+	margin: 2em;
+	padding-top: 1em;
+}
+
+.edu .col {
+	padding-left: 2em;
+}
+
+.col:nth-child(2){
+	border-left: 1px solid #000;
+}
