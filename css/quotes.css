@@ -1,5 +1,24 @@
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Bob\/SWDev\/bob2\/css\/quotes\/quotes\.scss}line{font-family:\000031}}
+@charset "UTF-8";
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Bob\/SWDev\/bobtaffet\.github\.io\/css\/quotes\/quotes\.scss}line{font-family:\000032}}
+body {
+  overflow: scroll; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Bob\/SWDev\/bobtaffet\.github\.io\/css\/quotes\/quotes\.scss}line{font-family:\000035}}
 h1 {
-  color: red; }
+  color: green; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Bob\/SWDev\/bobtaffet\.github\.io\/css\/quotes\/quotes\.scss}line{font-family:\000039}}
+q {
+  quotes: ‘»’ ‘«’; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Bob\/SWDev\/bobtaffet\.github\.io\/css\/quotes\/quotes\.scss}line{font-family:\0000313}}
+h5 {
+  text-indent: 3em;
+  margin: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Bob\/SWDev\/bobtaffet\.github\.io\/css\/quotes\/quotes\.scss}line{font-family:\0000318}}
+footer {
+  position: relative;
+  margin-top: 10em; }
 
 /*# sourceMappingURL=quotes.css.map */

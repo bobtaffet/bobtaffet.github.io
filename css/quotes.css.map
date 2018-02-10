@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": ";AAAA,EAAG;EACD,KAAK,EAAE,GAAG",
+"mappings": ";;AACA,IAAK;EACJ,QAAQ,EAAE,MAAM;;;AAEjB,EAAG;EACD,KAAK,EAAE,KAAK;;;AAGd,CAAE;EACE,MAAM,EAAE,OAAO;;;AAGnB,EAAG;EACF,WAAW,EAAE,GAAG;EAChB,MAAM,EAAE,CAAC;;;AAGV,MAAO;EACN,QAAQ,EAAE,QAAQ;EAClB,UAAU,EAAE,IAAI",
 "sources": ["quotes/quotes.scss"],
 "names": [],
 "file": "quotes.css"
