@@ -28,14 +28,4 @@ ul.posts {
 ul.posts li {
   list-style: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Bob\/SWDev\/bobtaffet\.github\.io\/css\/home\/home\.scss}line{font-family:\000031}}
-nav form {
-  display: inline;
-  color: blue;
-  float: right;
-  padding: 1em 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Bob\/SWDev\/bobtaffet\.github\.io\/css\/home\/home\.scss}line{font-family:\000035}}
-  nav form input {
-    width: 6em; }
-
 /*# sourceMappingURL=main.css.map */

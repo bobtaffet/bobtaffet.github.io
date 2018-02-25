@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Exertimer</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+    <!-- <audio controls>
+        <source src="resources/birds013.wav" type="audio/wav">
+            Your browser does not support the audio element.
+    </audio> -->
+
+    <form>
+        <input type="button" onclick="go()" value="Go!">
+    </form>
+
+    <script>
+        function go() {
+            var gong = new Audio('../resources/SoftGong.wav');
+            var birds = new Audio('../resources/birds013.wav');
+            var ticktock = new Audio('../resources/TickTock.wav');       
+
+            setTimeout(function(){
+                ticktock.play();
+            }, 5000); 
+
+            setTimeout(function(){
+                birds.play();
+            }, 25000); 
+
+            setTimeout(function(){
+                gong.play();
+            }, 35000); 
+        }
+    </script>
+
+</body>
+</html>
